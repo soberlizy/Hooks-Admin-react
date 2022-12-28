@@ -213,37 +213,6 @@ const data = [
 				title: "500页面"
 			}
 		]
-	},
-	{
-		icon: "PaperClipOutlined",
-		title: "外部链接",
-		path: "/link",
-		children: [
-			{
-				icon: "AppstoreOutlined",
-				path: "/link/gitee",
-				title: "Gitee 仓库",
-				isLink: "https://gitee.com/laramie/Hooks-Admin"
-			},
-			{
-				icon: "AppstoreOutlined",
-				path: "/link/github",
-				title: "GitHub 仓库",
-				isLink: "https://github.com/HalseySpicy/Hooks-Admin"
-			},
-			{
-				icon: "AppstoreOutlined",
-				path: "/link/juejin",
-				title: "掘金文档",
-				isLink: "https://juejin.cn/user/3263814531551816/posts"
-			},
-			{
-				icon: "AppstoreOutlined",
-				path: "/link/myBlog",
-				title: "个人博客",
-				isLink: "http://www.spicyboy.cn"
-			}
-		]
 	}
 ];
 export default data;
